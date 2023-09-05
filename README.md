@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @KavinCharlie
-- 👀 I’m interested in Discord.js Bots and Unity/Unreal Games
-- 🌱 I’m currently learning Kotlin for Cross-platform apps
-- 📫 How to reach me [Discord](https://kavinstudios)
+hi I'm Kavin 
 
 <!---
 KavinCharlie/KavinCharlie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
